@@ -1,0 +1,21 @@
+.navbar-title{
+	color: white;
+}
+
+.nav-link{
+	color:white; 
+	float: left;
+}
+
+.container{ 
+color: white; 
+ }
+
+ .navbar-brand { 
+ float: left
+  }
+
+nav a: active{
+	color: black; 
+
+}

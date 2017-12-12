@@ -1,0 +1,23 @@
+body{
+	background: url("../imgs/IMG_8321.jpg") no-repeat center center fixed;
+}
+
+.navbar-title{
+	color: white;
+}
+
+.nav-link{
+	color:white; 
+	float: left;
+}
+
+
+
+.maintitle {
+	color:white;
+	size: 150px;
+	letter-spacing: 10px;
+	text-align: center;
+	margin-top: 25vh; 
+	font-family: 'Roboto Condensed', sans-serif;	
+}
